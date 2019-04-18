@@ -1,0 +1,30 @@
+{
+  "name": "Bob Smith",
+  "version": "1.0.0",
+  "description": "Website for a graphic designer called Bob Smith",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CallumS19/bobsmith.git"
+  },
+  "keywords": [
+    "Small",
+    "node",
+    "project"
+  ],
+  "author": "Callum Spiers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CallumS19/bobsmith/issues"
+  },
+  "homepage": "https://github.com/CallumS19/bobsmith#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "ejs": "^2.6.1",
+    "express.js": "^1.0.0",
+    "jquery": "^3.4.0"
+  }
+}
